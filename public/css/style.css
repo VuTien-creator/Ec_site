@@ -1,5 +1,6 @@
 @import './navbar.css';
 @import './content.css';
+@import './footer.css';
 * {
     box-sizing: border-box;
     padding: 0;
